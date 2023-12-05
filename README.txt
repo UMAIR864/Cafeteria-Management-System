@@ -13,7 +13,7 @@ Before setting up the Cafeteria Management System, ensure the following are inst
 ### Importing Database in Microsoft SQL Server
 1. Open Microsoft SQL Server Management Studio (SSMS).
 2. Navigate to the "Database" folder in your Cafeteria Management System project.
-3. Locate the database file (`CafeteriaManagement.bacpac`).
+3. Locate the database file (`dbcafeteria.bacpac`).
 4. Right-click on "Databases" in SSMS and choose "Import Data-tier Application."
 5. Follow the on-screen instructions to import the Cafeteria Management database.
 
