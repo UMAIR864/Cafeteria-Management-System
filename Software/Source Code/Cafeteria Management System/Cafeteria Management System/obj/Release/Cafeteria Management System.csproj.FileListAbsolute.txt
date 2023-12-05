@@ -1,0 +1,37 @@
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\bin\Release\Cafeteria Management System.exe.config
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\bin\Release\Cafeteria Management System.exe.manifest
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\bin\Release\Cafeteria Management System.application
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\bin\Release\Cafeteria Management System.exe
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\bin\Release\Cafeteria Management System.pdb
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\bin\Release\Guna.UI.dll
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\bin\Release\Guna.UI2.dll
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\obj\Release\Cafeteria Management System.csproj.AssemblyReference.cache
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\obj\Release\Cafeteria_Management_System.formHome.resources
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\obj\Release\Cafeteria_Management_System.formLogin.resources
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\obj\Release\Cafeteria_Management_System.formMain.resources
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\obj\Release\Cafeteria_Management_System.Model.formCategoryAdd.resources
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\obj\Release\Cafeteria_Management_System.Model.formPOS.resources
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\obj\Release\Cafeteria_Management_System.Model.formProductAdd.resources
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\obj\Release\Cafeteria_Management_System.Model.formStaffAdd.resources
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\obj\Release\Cafeteria_Management_System.Model.formTableAdd.resources
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\obj\Release\Cafeteria_Management_System.Model.formTableSelect.resources
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\obj\Release\Cafeteria_Management_System.Model.formUserAdd.resources
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\obj\Release\Cafeteria_Management_System.Model.formWaiterSelect.resources
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\obj\Release\Cafeteria_Management_System.Model.ucProduct.resources
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\obj\Release\Cafeteria_Management_System.Properties.Resources.resources
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\obj\Release\Cafeteria_Management_System.SampleAdd.resources
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\obj\Release\Cafeteria_Management_System.SampleView.resources
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\obj\Release\Cafeteria_Management_System.View.formCategoryView.resources
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\obj\Release\Cafeteria_Management_System.View.formKitchenView.resources
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\obj\Release\Cafeteria_Management_System.View.formProductView.resources
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\obj\Release\Cafeteria_Management_System.View.formStaffView.resources
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\obj\Release\Cafeteria_Management_System.View.formTableView.resources
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\obj\Release\Cafeteria_Management_System.View.formUserView.resources
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\obj\Release\Cafeteria Management System.csproj.GenerateResource.cache
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\obj\Release\Cafeteria Management System.csproj.CoreCompileInputs.cache
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\obj\Release\Cafeteria Management System.exe.manifest
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\obj\Release\Cafeteria Management System.application
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\obj\Release\Cafeteria Management System.csproj.CopyComplete
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\obj\Release\Cafeteria Management System.exe
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\obj\Release\Cafeteria Management System.pdb
+C:\Users\umair\OneDrive\Desktop\SDP 200\Cafeteria Management System TEMP\Cafeteria Management System\Cafeteria Management System\obj\Release\Cafeteria_Management_System.Model.formBillList.resources
